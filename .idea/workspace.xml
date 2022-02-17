@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d316885e-d9c2-400f-a906-f406b87cbf49" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20kcByrRq20mBaXi98pJfYUxfjd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GUI_Code" />
+      <recent name="$PROJECT_DIR$/Lesson 2" />
+      <recent name="$PROJECT_DIR$/Lesson 3" />
+      <recent name="$PROJECT_DIR$/OOP" />
+      <recent name="$PROJECT_DIR$/Lesson 9" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Conversion_HW">
+    <configuration name="Connect_Four" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyhton Stuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 6/Connect_Four.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Conversion_HW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../pythonProject/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Gui" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Gui/Conversion_HW.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WINDOW (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../pythonProject/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Gui" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Gui/WINDOW.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WINDOW" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyhton Stuff" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI_Code/WINDOW.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cities" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson 7" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 7/cities.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Conversion_HW" />
+        <item itemvalue="Python.cities" />
+        <item itemvalue="Python.WINDOW (1)" />
+        <item itemvalue="Python.WINDOW" />
+        <item itemvalue="Python.Connect_Four" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d316885e-d9c2-400f-a906-f406b87cbf49" name="Changes" comment="" />
+      <created>1636591902213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636591902213</updated>
+      <workItem from="1636591918085" duration="441000" />
+      <workItem from="1636624656894" duration="177000" />
+      <workItem from="1636691598707" duration="1236000" />
+      <workItem from="1636693924030" duration="232000" />
+      <workItem from="1636964775400" duration="391000" />
+      <workItem from="1636965232168" duration="64000" />
+      <workItem from="1636965353211" duration="521000" />
+      <workItem from="1636965925407" duration="1917000" />
+      <workItem from="1637022459060" duration="2346000" />
+      <workItem from="1637631386214" duration="3157000" />
+      <workItem from="1637751752190" duration="1552000" />
+      <workItem from="1637798476842" duration="3308000" />
+      <workItem from="1637832373322" duration="2668000" />
+      <workItem from="1637836101738" duration="910000" />
+      <workItem from="1637901524873" duration="3185000" />
+      <workItem from="1638403443943" duration="2789000" />
+      <workItem from="1638506156275" duration="2830000" />
+      <workItem from="1638841704353" duration="1102000" />
+      <workItem from="1638931876465" duration="199000" />
+      <workItem from="1639008497699" duration="1496000" />
+      <workItem from="1641428764833" duration="2057000" />
+      <workItem from="1641431341822" duration="47000" />
+      <workItem from="1641451664765" duration="1543000" />
+      <workItem from="1641530284252" duration="3338000" />
+      <workItem from="1641609717227" duration="2202000" />
+      <workItem from="1641612597118" duration="391000" />
+      <workItem from="1641733649044" duration="425000" />
+      <workItem from="1641863431148" duration="2880000" />
+      <workItem from="1641972864322" duration="2307000" />
+      <workItem from="1641991729173" duration="1875000" />
+      <workItem from="1642059622196" duration="2049000" />
+      <workItem from="1642134787757" duration="3495000" />
+      <workItem from="1642403512027" duration="357000" />
+      <workItem from="1642469246530" duration="3819000" />
+      <workItem from="1642636818401" duration="3320000" />
+      <workItem from="1642664255841" duration="226000" />
+      <workItem from="1642686706282" duration="131000" />
+      <workItem from="1642723565555" duration="2780000" />
+      <workItem from="1642738452234" duration="3102000" />
+      <workItem from="1642852802714" duration="4401000" />
+      <workItem from="1642919571367" duration="4078000" />
+      <workItem from="1643069326215" duration="698000" />
+      <workItem from="1643074987299" duration="3193000" />
+      <workItem from="1643088855300" duration="4090000" />
+      <workItem from="1643241779230" duration="676000" />
+      <workItem from="1643249258141" duration="196000" />
+      <workItem from="1643272531388" duration="5946000" />
+      <workItem from="1643287766362" duration="534000" />
+      <workItem from="1643345319111" duration="296000" />
+      <workItem from="1643361453471" duration="270000" />
+      <workItem from="1643361894526" duration="882000" />
+      <workItem from="1643365306097" duration="1866000" />
+      <workItem from="1643430554962" duration="49000" />
+      <workItem from="1643443393664" duration="341000" />
+      <workItem from="1643447397862" duration="369000" />
+      <workItem from="1643453079476" duration="241000" />
+      <workItem from="1643455985102" duration="3861000" />
+      <workItem from="1643463315869" duration="130000" />
+      <workItem from="1643517059135" duration="1466000" />
+      <workItem from="1643518945823" duration="1363000" />
+      <workItem from="1643521735353" duration="172000" />
+      <workItem from="1643527463354" duration="320000" />
+      <workItem from="1643542859552" duration="1747000" />
+      <workItem from="1643544819011" duration="1255000" />
+      <workItem from="1643546581963" duration="222000" />
+      <workItem from="1643547018228" duration="856000" />
+      <workItem from="1643604618843" duration="952000" />
+      <workItem from="1643612344331" duration="1081000" />
+      <workItem from="1643691987118" duration="273000" />
+      <workItem from="1643692522770" duration="4548000" />
+      <workItem from="1643703329303" duration="2718000" />
+      <workItem from="1643713949652" duration="2633000" />
+      <workItem from="1643783590984" duration="1556000" />
+      <workItem from="1643877236115" duration="10923000" />
+      <workItem from="1643950313768" duration="508000" />
+      <workItem from="1643974672114" duration="1391000" />
+      <workItem from="1643986656268" duration="414000" />
+      <workItem from="1644060800187" duration="5606000" />
+      <workItem from="1644067347127" duration="97000" />
+      <workItem from="1644124104564" duration="451000" />
+      <workItem from="1644124681433" duration="127000" />
+      <workItem from="1644238770593" duration="3137000" />
+      <workItem from="1644285611955" duration="1929000" />
+      <workItem from="1644293832363" duration="631000" />
+      <workItem from="1644294936412" duration="15000" />
+      <workItem from="1644302647010" duration="363000" />
+      <workItem from="1644305521419" duration="586000" />
+      <workItem from="1644306216597" duration="459000" />
+      <workItem from="1644312134140" duration="4959000" />
+      <workItem from="1644319015300" duration="188000" />
+      <workItem from="1644319464239" duration="193000" />
+      <workItem from="1644323581721" duration="2429000" />
+      <workItem from="1644327176270" duration="627000" />
+      <workItem from="1644395643422" duration="273000" />
+      <workItem from="1644406687285" duration="426000" />
+      <workItem from="1644451337019" duration="3384000" />
+      <workItem from="1644489139474" duration="3357000" />
+      <workItem from="1644495180780" duration="989000" />
+      <workItem from="1644553493247" duration="3606000" />
+      <workItem from="1644665539052" duration="3516000" />
+      <workItem from="1644838256912" duration="318000" />
+      <workItem from="1644839471642" duration="856000" />
+      <workItem from="1644840779626" duration="149000" />
+      <workItem from="1644995835231" duration="354000" />
+      <workItem from="1645055897497" duration="3415000" />
+      <workItem from="1645077766433" duration="897000" />
+      <workItem from="1645080486881" duration="612000" />
+      <workItem from="1645090329627" duration="391000" />
+      <workItem from="1645090769572" duration="28000" />
+      <workItem from="1645090829902" duration="28000" />
+      <workItem from="1645090891436" duration="4128000" />
+    </task>
+    <task id="LOCAL-00001" summary="Integratnig User object to the previous login system with funtions. Updated create_user(), authentication(),">
+      <created>1644454841439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644454841439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Integratnig User object to the previous login system with funtions. Updated create_user(), authentication()," />
+    <option name="LAST_COMMIT_MESSAGE" value="Integratnig User object to the previous login system with funtions. Updated create_user(), authentication()," />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Working_with_list.coverage" NAME="Working_with_list Coverage Results" MODIFIED="1644840350140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 3" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Dictionary_Demo.coverage" NAME="Dictionary_Demo Coverage Results" MODIFIED="1642922749026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 7" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$OOP_intro.coverage" NAME="OOP_intro Coverage Results" MODIFIED="1644317111922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 8" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$login_function.coverage" NAME="login_function Coverage Results" MODIFIED="1643517836664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 8" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Conversion_HW.coverage" NAME="Conversion_HW Coverage Results" MODIFIED="1645094997413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Gui" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$name_case.coverage" NAME="name_case Coverage Results" MODIFIED="1643884491243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 1" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Mode_of_transport.coverage" NAME="Mode_of_transport Coverage Results" MODIFIED="1637633679258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$statements.coverage" NAME="statements Coverage Results" MODIFIED="1643974784255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 1" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Hello_World.coverage" NAME="Hello World Coverage Results" MODIFIED="1636966073008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$incase_emergy.coverage" NAME="incase_emergy Coverage Results" MODIFIED="1643519133794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 8" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1644495370356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 8" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$PERSONAL_Mesage.coverage" NAME="PERSONAL Mesage Coverage Results" MODIFIED="1636966567737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Lists_demos.coverage" NAME="Lists_demos Coverage Results" MODIFIED="1643606017161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 2" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$class.coverage" NAME="variable Coverage Results" MODIFIED="1643460092296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 1" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Conditional_tests.coverage" NAME="Conditional_tests Coverage Results" MODIFIED="1638406743608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 5" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$WINDOW__1_.coverage" NAME="WINDOW (1) Coverage Results" MODIFIED="1645091608234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Gui" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$User_Model.coverage" NAME="User_Model Coverage Results" MODIFIED="1644490432454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$list.coverage" NAME="list Coverage Results" MODIFIED="1644669110297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Not school stuff" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$stripping_names.coverage" NAME="stripping_names Coverage Results" MODIFIED="1636967825694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 1" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1637026946159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$famous_quote.coverage" NAME="famous_quote Coverage Results" MODIFIED="1643543615020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 1" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$assessment_first.coverage" NAME="assessment_first Coverage Results" MODIFIED="1642924048698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 8" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$personal_message.coverage" NAME="personal_message Coverage Results" MODIFIED="1643366713202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 1" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$friend_list.coverage" NAME="friend_list Coverage Results" MODIFIED="1637633519570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Lists_demo.coverage" NAME="Lists_demo Coverage Results" MODIFIED="1637633297569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$WINDOW.coverage" NAME="WINDOW Coverage Results" MODIFIED="1645080514343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$List_Demo_2.coverage" NAME="List_Demo_2 Coverage Results" MODIFIED="1643714630682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 4" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Guessing_game.coverage" NAME="Guessing_game Coverage Results" MODIFIED="1643785123465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 6" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$OOP_HW.coverage" NAME="OOP_HW Coverage Results" MODIFIED="1644451377040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 9" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$cities.coverage" NAME="cities Coverage Results" MODIFIED="1644839932359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 7" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Organize_list_demo.coverage" NAME="Organize_list_demo Coverage Results" MODIFIED="1643606246870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 3" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$login_system.coverage" NAME="login_system Coverage Results" MODIFIED="1644996178207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$comp_sci_test.coverage" NAME="Connect_Four Coverage Results" MODIFIED="1645078329408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 6" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Hlello_World.coverage" NAME="Hello World Coverage Results" MODIFIED="1636592425055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Guest_list.coverage" NAME="Guest_list Coverage Results" MODIFIED="1643613031854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 2" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$lsit_2.coverage" NAME="lsit_2 Coverage Results" MODIFIED="1643606058894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 2" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$famousquote.coverage" NAME="famousquote Coverage Results" MODIFIED="1636967058631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 1" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$login_with_function.coverage" NAME="login_with_function Coverage Results" MODIFIED="1642739701658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 8" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$variable.coverage" NAME="variable Coverage Results" MODIFIED="1643718111925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 1" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$loops.coverage" NAME="loops Coverage Results" MODIFIED="1644395772058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 1" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$Vishnu_modified_login.coverage" NAME="Vishnu_modified_login Coverage Results" MODIFIED="1643783776529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 8" />
+    <SUITE FILE_PATH="coverage/Pyhton_Stuff$functions_demo.coverage" NAME="functions_demo Coverage Results" MODIFIED="1644495222615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lesson 7" />
+  </component>
+</project>
