@@ -10,10 +10,10 @@ class MainWindow:
 
         self.lbl_welcome.pack()
 
-        self.lbl_Number = Label(text="Enter a valu in meters: ")
-        self.txt_Number = Entry()
-        self.lbl_Number.pack()
-        self.txt_Number.pack()
+        self.lbl_fNumber = Label(text="Enter a valu in meters: ")
+        self.txt_fNumber = Entry()
+        self.lbl_fNumber.pack()
+        self.txt_fNumber.pack()
 
         self.btn_cm = Button(text="CM", command=self.convert_cm)
         self.lbl_result = Label(text="Result")
